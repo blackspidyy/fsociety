@@ -165,15 +165,3 @@ docker-compose down # destroys instance
 [gabru-md](https://github.com/gabru-md)
 
 [jdrago999](https://github.com/jdrago999)
-
-# License
-
-[MIT Licence](https://github.com/Manisso/fsociety/blob/master/LICENSE)
-
-# Join the team 
- Do you want to collaborate? Join the project at https://crowdforge.io/projects/409
- 
- # Donate
-- Bitcoin  = 3N8i3Xpi15E11M2zPUm5kPhGjnPSLXcWFt
-- Ethereum = 0xa891e54169182a93cacba41288d16aaffa537503
-
