@@ -12,7 +12,7 @@
 #                                Greet's To
 #                              IcoDz - Canejo
 #                             Tool For Hacking
-#                             Author : Manisso
+#                            Welcome BlackSpidyy
 
 '''
 Imports
@@ -125,7 +125,7 @@ class fsociety:
         self.createFolders()
         print (fsocietylogo + color.RED + '''
        }--------------{+} Black_Spidyy {+}--------------{
-       }--------{+}  GitHub.com/Manisso/fsociety {+}--------{
+       }--------{+}  GitHub.com/BlackSpidyy/fsociety {+}--------{
     ''' + color.END + '''
        {1}--Information Gathering
        {2}--Password Attacks
